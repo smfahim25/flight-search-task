@@ -37,9 +37,9 @@
         }
       ],
       "price": "632.30",
-      "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-      "class": [["E", "E"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["EF1PXOW", "EF1PXOW"],
+      "class": ["E", "E"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -78,9 +78,9 @@
         }
       ],
       "price": "632.30",
-      "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-      "class": [["E", "E"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["EF1PXOW", "EF1PXOW"],
+      "class": ["E", "E"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -119,9 +119,9 @@
         }
       ],
       "price": "632.30",
-      "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-      "class": [["E", "E"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["EF1PXOW", "EF1PXOW"],
+      "class": ["E", "E"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -160,9 +160,9 @@
         }
       ],
       "price": "632.30",
-      "fareBasis": [["EF1PXOW", "EF1PXOW"]],
-      "class": [["E", "E"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["EF1PXOW", "EF1PXOW"],
+      "class": ["E", "E"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -201,9 +201,9 @@
         }
       ],
       "price": "725.57",
-      "fareBasis": [["QSSOPBD1", "QSSOPBD1"]],
-      "class": [["Q", "Q"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["QSSOPBD1", "QSSOPBD1"],
+      "class": ["Q", "Q"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -242,9 +242,9 @@
         }
       ],
       "price": "725.57",
-      "fareBasis": [["QSSOPBD1", "QSSOPBD1"]],
-      "class": [["Q", "Q"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["QSSOPBD1", "QSSOPBD1"],
+      "class": ["Q", "Q"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -283,9 +283,9 @@
         }
       ],
       "price": "732.30",
-      "fareBasis": [["OF1PXOW", "OF1PXOW"]],
-      "class": [["O", "O"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["OF1PXOW", "OF1PXOW"],
+      "class": ["O", "O"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -324,9 +324,9 @@
         }
       ],
       "price": "732.30",
-      "fareBasis": [["OF1PXOW", "OF1PXOW"]],
-      "class": [["O", "O"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["OF1PXOW", "OF1PXOW"],
+      "class": ["O", "O"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -365,9 +365,9 @@
         }
       ],
       "price": "732.30",
-      "fareBasis": [["OF1PXOW", "OF1PXOW"]],
-      "class": [["O", "O"]],
-      "seat": [["7", "7"]]
+      "fareBasis": ["OF1PXOW", "OF1PXOW"],
+      "class": ["O", "O"],
+      "seat": ["7", "7"]
     },
     {
       "itineraries": [
@@ -406,9 +406,9 @@
         }
       ],
       "price": "745.15",
-      "fareBasis": [["VOWBD1", "VOWBD1"]],
-      "class": [["V", "V"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["VOWBD1", "VOWBD1"],
+      "class": ["V", "V"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -447,9 +447,9 @@
         }
       ],
       "price": "812.30",
-      "fareBasis": [["SF1PXOW", "SF1PXOW"]],
-      "class": [["S", "S"]],
-      "seat": [["2", "2"]]
+      "fareBasis": ["SF1PXOW", "SF1PXOW"],
+      "class": ["S", "S"],
+      "seat": ["2", "2"]
     },
     {
       "itineraries": [
@@ -488,9 +488,9 @@
         }
       ],
       "price": "833.57",
-      "fareBasis": [["QC1BD", "QC1BD"]],
-      "class": [["Q", "Q"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["QC1BD", "QC1BD"],
+      "class": ["Q", "Q"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -529,9 +529,9 @@
         }
       ],
       "price": "833.57",
-      "fareBasis": [["QC1BD", "QC1BD"]],
-      "class": [["Q", "Q"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["QC1BD", "QC1BD"],
+      "class": ["Q", "Q"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -570,9 +570,9 @@
         }
       ],
       "price": "845.57",
-      "fareBasis": [["KSSOSBD1", "KSSOSBD1"]],
-      "class": [["K", "K"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["KSSOSBD1", "KSSOSBD1"],
+      "class": ["K", "K"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -611,9 +611,9 @@
         }
       ],
       "price": "845.57",
-      "fareBasis": [["KSSOSBD1", "KSSOSBD1"]],
-      "class": [["K", "K"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["KSSOSBD1", "KSSOSBD1"],
+      "class": ["K", "K"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -666,9 +666,9 @@
         }
       ],
       "price": "958.35",
-      "fareBasis": [["NHBCOEXX", "NHBCOEXX", "NHBCOEXX"]],
-      "class": [["N", "N", "N"]],
-      "seat": [["9", "9", "7"]]
+      "fareBasis": ["NHBCOEXX", "NHBCOEXX", "NHBCOEXX"],
+      "class": ["N", "N", "N"],
+      "seat": ["9", "9", "7"]
     },
     {
       "itineraries": [
@@ -721,9 +721,9 @@
         }
       ],
       "price": "978.27",
-      "fareBasis": [["NHBCOEXX", "NHBCOEXX", "NHBCOEXX"]],
-      "class": [["N", "N", "N"]],
-      "seat": [["9", "9", "7"]]
+      "fareBasis": ["NHBCOEXX", "NHBCOEXX", "NHBCOEXX"],
+      "class": ["N", "N", "N"],
+      "seat": ["9", "9", "7"]
     },
     {
       "itineraries": [
@@ -776,9 +776,9 @@
         }
       ],
       "price": "1028.46",
-      "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-      "class": [["Q", "V", "V"]],
-      "seat": [["9", "4", "4"]]
+      "fareBasis": ["QFLOWBD", "VFLOWMY", "VFLOWMY"],
+      "class": ["Q", "V", "V"],
+      "seat": ["9", "4", "4"]
     },
     {
       "itineraries": [
@@ -831,9 +831,9 @@
         }
       ],
       "price": "1032.06",
-      "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-      "class": [["Q", "V", "V"]],
-      "seat": [["9", "4", "4"]]
+      "fareBasis": ["QFLOWBD", "VFLOWMY", "VFLOWMY"],
+      "class": ["Q", "V", "V"],
+      "seat": ["9", "4", "4"]
     },
     {
       "itineraries": [
@@ -872,9 +872,9 @@
         }
       ],
       "price": "1037.57",
-      "fareBasis": [["BSSOSBD1", "BSSOSBD1"]],
-      "class": [["B", "B"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["BSSOSBD1", "BSSOSBD1"],
+      "class": ["B", "B"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -927,9 +927,9 @@
         }
       ],
       "price": "1048.38",
-      "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-      "class": [["Q", "V", "V"]],
-      "seat": [["9", "4", "4"]]
+      "fareBasis": ["QFLOWBD", "VFLOWMY", "VFLOWMY"],
+      "class": ["Q", "V", "V"],
+      "seat": ["9", "4", "4"]
     },
     {
       "itineraries": [
@@ -982,9 +982,9 @@
         }
       ],
       "price": "1051.98",
-      "fareBasis": [["QFLOWBD", "VFLOWMY", "VFLOWMY"]],
-      "class": [["Q", "V", "V"]],
-      "seat": [["9", "4", "4"]]
+      "fareBasis": ["QFLOWBD", "VFLOWMY", "VFLOWMY"],
+      "class": ["Q", "V", "V"],
+      "seat": ["9", "4", "4"]
     },
     {
       "itineraries": [
@@ -1023,9 +1023,9 @@
         }
       ],
       "price": "1406.82",
-      "fareBasis": [["MJR4R1SO", "MJR4R1SO"]],
-      "class": [["M", "M"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["MJR4R1SO", "MJR4R1SO"],
+      "class": ["M", "M"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -1064,9 +1064,9 @@
         }
       ],
       "price": "1406.82",
-      "fareBasis": [["MJR4R1SO", "MJR4R1SO"]],
-      "class": [["M", "M"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["MJR4R1SO", "MJR4R1SO"],
+      "class": ["M", "M"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -1105,9 +1105,9 @@
         }
       ],
       "price": "1410.42",
-      "fareBasis": [["MJR4R1SO", "MJR4R1SO"]],
-      "class": [["M", "M"]],
-      "seat": [["9", "9"]]
+      "fareBasis": ["MJR4R1SO", "MJR4R1SO"],
+      "class": ["M", "M"],
+      "seat": ["9", "9"]
     },
     {
       "itineraries": [
@@ -1160,9 +1160,9 @@
         }
       ],
       "price": "1564.80",
-      "fareBasis": [["MJR4R1SO", "MJR4R1SO", "MJR4R1SO"]],
-      "class": [["M", "M", "M"]],
-      "seat": [["9", "9", "4"]]
+      "fareBasis": ["MJR4R1SO", "MJR4R1SO", "MJR4R1SO"],
+      "class": ["M", "M", "M"],
+      "seat": ["9", "9", "4"]
     },
     {
       "itineraries": [
@@ -1215,9 +1215,9 @@
         }
       ],
       "price": "1564.80",
-      "fareBasis": [["MJR4R1SO", "MJR4R1SO", "MJR4R1SO"]],
-      "class": [["M", "M", "M"]],
-      "seat": [["9", "9", "4"]]
+      "fareBasis": ["MJR4R1SO", "MJR4R1SO", "MJR4R1SO"],
+      "class": ["M", "M", "M"],
+      "seat": ["9", "9", "4"]
     },
     {
       "itineraries": [
@@ -1270,9 +1270,9 @@
         }
       ],
       "price": "3817.26",
-      "fareBasis": [["YF1OW", "YF1OW", "YF1OW"]],
-      "class": [["Y", "Y", "Y"]],
-      "seat": [["9", "9", "9"]]
+      "fareBasis": ["YF1OW", "YF1OW", "YF1OW"],
+      "class": ["Y", "Y", "Y"],
+      "seat": ["9", "9", "9"]
     },
     {
       "itineraries": [
@@ -1325,9 +1325,9 @@
         }
       ],
       "price": "4246.56",
-      "fareBasis": [["YOWBD7", "YOWBD7", "YOWBD7"]],
-      "class": [["Y", "W", "W"]],
-      "seat": [["9", "7", "7"]]
+      "fareBasis": ["YOWBD7", "YOWBD7", "YOWBD7"],
+      "class": ["Y", "W", "W"],
+      "seat": ["9", "7", "7"]
     },
     {
       "itineraries": [
@@ -1380,9 +1380,9 @@
         }
       ],
       "price": "6046.89",
-      "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-      "class": [["Y", "Y", "J"]],
-      "seat": [["9", "9", "9"]]
+      "fareBasis": ["YOWBD7", "YOWBD7", "JFF77WW"],
+      "class": ["Y", "Y", "J"],
+      "seat": ["9", "9", "9"]
     },
     {
       "itineraries": [
@@ -1435,9 +1435,9 @@
         }
       ],
       "price": "6046.89",
-      "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-      "class": [["Y", "Y", "J"]],
-      "seat": [["9", "9", "9"]]
+      "fareBasis": ["YOWBD7", "YOWBD7", "JFF77WW"],
+      "class": ["Y", "Y", "J"],
+      "seat": ["9", "9", "9"]
     },
     {
       "itineraries": [
@@ -1490,9 +1490,9 @@
         }
       ],
       "price": "6232.50",
-      "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-      "class": [["Y", "Y", "J"]],
-      "seat": [["9", "9", "9"]]
+      "fareBasis": ["YOWBD7", "YOWBD7", "JFF77WW"],
+      "class": ["Y", "Y", "J"],
+      "seat": ["9", "9", "9"]
     },
     {
       "itineraries": [
@@ -1545,9 +1545,9 @@
         }
       ],
       "price": "6232.50",
-      "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-      "class": [["Y", "Y", "J"]],
-      "seat": [["9", "9", "9"]]
+      "fareBasis": ["YOWBD7", "YOWBD7", "JFF77WW"],
+      "class": ["Y", "Y", "J"],
+      "seat": ["9", "9", "9"]
     },
     {
       "itineraries": [
@@ -1600,9 +1600,9 @@
         }
       ],
       "price": "6232.50",
-      "fareBasis": [["YOWBD7", "YOWBD7", "JFF77WW"]],
-      "class": [["Y", "Y", "J"]],
-      "seat": [["9", "9", "9"]]
+      "fareBasis": ["YOWBD7", "YOWBD7", "JFF77WW"],
+      "class": ["Y", "Y", "J"],
+      "seat": ["9", "9", "9"]
     },
     {
       "itineraries": [
@@ -1655,9 +1655,9 @@
         }
       ],
       "price": "9198.86",
-      "fareBasis": [["JOWBD7", "JOWBD7", "JOWBD7"]],
-      "class": [["J", "J", "E"]],
-      "seat": [["7", "7", "5"]]
+      "fareBasis": ["JOWBD7", "JOWBD7", "JOWBD7"],
+      "class": ["J", "J", "E"],
+      "seat": ["7", "7", "5"]
     }
   ],
   "message": "Data parsed successfully",

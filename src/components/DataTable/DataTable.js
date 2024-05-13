@@ -65,7 +65,7 @@ const DataTable = ({ flights }) => {
                 </td>
                 <td className="px-2 py-4 whitespace-nowrap">
                   {flight.fareBasis.map((option) => (
-                    <div key={option}>{option}</div>
+                    <div key={`${option}-${Math.random()}`}>{option}</div>
                   ))}
                 </td>
                 <td className="px-2 py-4 whitespace-nowrap">

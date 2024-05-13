@@ -1,10 +1,25 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
+import flightData from "../../assets/data/LHR_CDG_ADT1_TYPE_1.json";
 
 const FlightSearch = () => {
   const [passenger, setPassenger] = useState(1);
+  const [flightOffers, setFlightOffers] = useState([]);
+
+  const [selectedOption, setSelectedOption] = useState("");
+
+  const getFlightOffers = () => {
+    setFlightOffers(flightData.flightOffer);
+  };
+  useEffect(() => {
+    getFlightOffers();
+  }, []);
+
+  const handleOptionChange = (event) => {
+    setSelectedOption(event.target.value);
+  };
 
   return (
-    <div>
+    <div className="mx-3">
       <div>
         <h2 className="text-xl font-bold text-gray-700 m-2">Master Price</h2>
         <hr class="h-px bg-gray-200 border-0 dark:bg-gray-700"></hr>
@@ -20,8 +35,14 @@ const FlightSearch = () => {
                   value="Driver License"
                   name="list-radio"
                   className="hidden-input" // Hide the default radio button
+                  onChange={handleOptionChange}
                 />
-                <label htmlFor="horizontal-list-radio-license">
+                <label
+                  htmlFor="horizontal-list-radio-license"
+                  className={`w-full py-3 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300 ${
+                    selectedOption === "Driver License" ? "selected" : ""
+                  }`}
+                >
                   Round Trip
                 </label>
               </div>
@@ -34,8 +55,16 @@ const FlightSearch = () => {
                   value="Driver License"
                   name="list-radio"
                   className="hidden-input" // Hide the default radio button
+                  onChange={handleOptionChange}
                 />
-                <label htmlFor="horizontal-list-radio-license">One Way</label>
+                <label
+                  htmlFor="horizontal-list-radio-license"
+                  className={`w-full py-3 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300 ${
+                    selectedOption === "Driver License" ? "selected" : ""
+                  }`}
+                >
+                  One Way
+                </label>
               </div>
             </li>
             <li className="w-full border-b border-gray-200 sm:border-b-0 sm:border-r dark:border-gray-600">
@@ -46,8 +75,14 @@ const FlightSearch = () => {
                   value="Driver License"
                   name="list-radio"
                   className="hidden-input" // Hide the default radio button
+                  onChange={handleOptionChange}
                 />
-                <label htmlFor="horizontal-list-radio-license">
+                <label
+                  htmlFor="horizontal-list-radio-license"
+                  className={`w-full py-3 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300 ${
+                    selectedOption === "Driver License" ? "selected" : ""
+                  }`}
+                >
                   Multi City
                 </label>
               </div>

@@ -1,21 +1,18 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import flightData from "../../assets/data/LHR_CDG_ADT1_TYPE_1.json";
+import DataTable from "../DataTable/DataTable";
 
 const FlightSearch = () => {
   const [passenger, setPassenger] = useState(1);
   const [flightOffers, setFlightOffers] = useState([]);
   const [selectedOption, setSelectedOption] = useState("");
   const [isChecked, setIsChecked] = useState(true);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [showResult, setShowResult] = useState(false);
 
   const getFlightOffers = () => {
     setFlightOffers(flightData.flightOffer);
-    setShowResult(true);
   };
-  useEffect(() => {
-    getFlightOffers();
-  }, []);
   const handleOptionChange = (event) => {
     setSelectedOption(event.target.value);
     setIsChecked(false);
@@ -25,19 +22,24 @@ const FlightSearch = () => {
     }
   };
 
-  const handleSubmit = () => {
+  const handleSubmit = (event) => {
+    event.preventDefault();
     // Show loading state
     setLoading(true);
 
-    // Simulate a 3-second delay before showing the result
+    // Simulate a delay before showing the result
     setTimeout(() => {
       // Update the result state
       getFlightOffers();
 
       // Hide loading state
       setLoading(false);
-    }, 6000);
+
+      // Show result
+      setShowResult(true);
+    }, 5000); // Simulating a 6-second delay
   };
+
   return (
     <div className="mx-3">
       <div>
@@ -295,6 +297,11 @@ const FlightSearch = () => {
       <div className="flex justify-center align-middle mt-8">
         {loading && <span className="loading loading-bars loading-lg"></span>}
       </div>
+      {showResult && flightOffers.length > 0 && (
+        <div>
+          <DataTable flights={flightOffers} />
+        </div>
+      )}
     </div>
   );
 };
